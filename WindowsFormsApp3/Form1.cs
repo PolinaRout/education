@@ -15,7 +15,7 @@ namespace WindowsFormsApp3
         public Form1()
         {
             InitializeComponent();
-            MorseCodeDecoder.Decode(".... . -.--   .--- ..- -.. .");
+            MorseCodeDecoder.Decode(".... . -.--   .--- ..- -.. .   . . ");
         }
 
 class MorseCodeDecoder
